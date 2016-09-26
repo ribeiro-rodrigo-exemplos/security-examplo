@@ -1,0 +1,7 @@
+#security:
+  #user:
+    #name: rodrigo
+    #password: rodrigo007
+    #role: user
+#security.enable_csrf: true
+
